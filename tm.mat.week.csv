@@ -1,33 +1,33 @@
-"Team","Rating","Change Over Week","Change Over Season","Pts. Favored Against Avg. Opp.","Win Division %","Win WC %","Make Playoffs %"
-"Arizona Cardinals",4.9,0,-1.6,-5.6,0.002,0.014,0.016
-"Atlanta Falcons",8.8,-0.3,-0.2,1.5,0.169,0.167,0.336
-"Baltimore Ravens",8.9,0.3,1.4,1.6,0.312,0.189,0.501
-"Buffalo Bills",5.8,1.4,-0.5,-4,0.11,0.034,0.144
-"Carolina Panthers",9.2,0.2,0.2,2.1,0.315,0.143,0.458
-"Chicago Bears",7.3,0,0.5,-1.3,0.256,0.124,0.38
-"Cincinnati Bengals",7.2,-0.2,0.9,-1.4,0.197,0.154,0.351
-"Cleveland Browns",6.4,0.1,0.5,-2.9,0.097,0.086,0.183
-"Dallas Cowboys",8.2,-0.4,-0.5,0.3,0.188,0.088,0.276
-"Denver Broncos",6.7,-0.3,-0.3,-2.4,0.115,0.153,0.268
-"Detroit Lions",7.4,0.8,-0.7,-1.2,0.141,0.059,0.2
-"Green Bay Packers",8.7,-0.6,-0.9,1.2,0.326,0.153,0.479
-"Houston Texans",7.1,-0.3,-0.3,-1.6,0.085,0.072,0.157
-"Indianapolis Colts",6.7,0.2,0.4,-2.3,0.142,0.066,0.208
-"Jacksonville Jaguars",9,-0.4,0.3,1.9,0.424,0.167,0.591
-"Kansas City Chiefs",9.9,0.2,1.1,3.4,0.704,0.115,0.819
-"Los Angeles Chargers",8.3,-0.1,-0.3,0.5,0.143,0.228,0.371
-"Los Angeles Rams",11.9,0,1.7,7,0.837,0.087,0.924
-"Miami Dolphins",7.1,0.2,1,-1.7,0.446,0.133,0.579
-"Minnesota Vikings",8.9,0,-1.2,1.6,0.277,0.107,0.384
-"New England Patriots",8.8,-0.8,-1.2,1.5,0.351,0.137,0.488
-"New Orleans Saints",9.5,0.3,-0.5,2.7,0.292,0.179,0.471
-"New York Giants",7.5,0.3,0,-0.8,0.11,0.077,0.187
-"New York Jets",6.5,-0.1,1,-2.7,0.093,0.084,0.177
-"Oakland Raiders",6.3,-0.2,-0.8,-3.1,0.038,0.042,0.08
-"Philadelphia Eagles",9.9,-0.2,-0.5,3.4,0.456,0.127,0.583
-"Pittsburgh Steelers",9.8,0.1,-0.4,3.1,0.394,0.186,0.58
-"San Francisco 49ers",7.9,-0.2,-0.4,-0.3,0.081,0.185,0.266
-"Seattle Seahawks",8.5,0.4,0,0.9,0.08,0.209,0.289
-"Tampa Bay Buccaneers",8,-0.1,0.8,0,0.224,0.154,0.378
-"Tennessee Titans",7.9,0.4,0.1,-0.1,0.349,0.154,0.503
-"Washington Redskins",8.2,0.6,0.6,0.3,0.246,0.127,0.373
+"Team","Rating","Change Over Week","Change Over Season","Pts. Favored Against Avg. Opp.","Win Division %","Make Playoffs %"
+"Los Angeles Rams",11.9,0,1.7,7,0.837,0.924
+"Kansas City Chiefs",9.9,0.2,1.1,3.4,0.704,0.819
+"Philadelphia Eagles",9.9,-0.2,-0.5,3.4,0.456,0.583
+"Pittsburgh Steelers",9.8,0.1,-0.4,3.1,0.394,0.58
+"New Orleans Saints",9.5,0.3,-0.5,2.7,0.292,0.471
+"Carolina Panthers",9.2,0.2,0.2,2.1,0.315,0.458
+"Jacksonville Jaguars",9,-0.4,0.3,1.9,0.424,0.591
+"Baltimore Ravens",8.9,0.3,1.4,1.6,0.312,0.501
+"Minnesota Vikings",8.9,0,-1.2,1.6,0.277,0.384
+"Atlanta Falcons",8.8,-0.3,-0.2,1.5,0.169,0.336
+"New England Patriots",8.8,-0.8,-1.2,1.5,0.351,0.488
+"Green Bay Packers",8.7,-0.6,-0.9,1.2,0.326,0.479
+"Seattle Seahawks",8.5,0.4,0,0.9,0.08,0.289
+"Los Angeles Chargers",8.3,-0.1,-0.3,0.5,0.143,0.371
+"Dallas Cowboys",8.2,-0.4,-0.5,0.3,0.188,0.276
+"Washington Redskins",8.2,0.6,0.6,0.3,0.246,0.373
+"Tampa Bay Buccaneers",8,-0.1,0.8,0,0.224,0.378
+"San Francisco 49ers",7.9,-0.2,-0.4,-0.3,0.081,0.266
+"Tennessee Titans",7.9,0.4,0.1,-0.1,0.349,0.503
+"New York Giants",7.5,0.3,0,-0.8,0.11,0.187
+"Detroit Lions",7.4,0.8,-0.7,-1.2,0.141,0.2
+"Chicago Bears",7.3,0,0.5,-1.3,0.256,0.38
+"Cincinnati Bengals",7.2,-0.2,0.9,-1.4,0.197,0.351
+"Houston Texans",7.1,-0.3,-0.3,-1.6,0.085,0.157
+"Miami Dolphins",7.1,0.2,1,-1.7,0.446,0.579
+"Denver Broncos",6.7,-0.3,-0.3,-2.4,0.115,0.268
+"Indianapolis Colts",6.7,0.2,0.4,-2.3,0.142,0.208
+"New York Jets",6.5,-0.1,1,-2.7,0.093,0.177
+"Cleveland Browns",6.4,0.1,0.5,-2.9,0.097,0.183
+"Oakland Raiders",6.3,-0.2,-0.8,-3.1,0.038,0.08
+"Buffalo Bills",5.8,1.4,-0.5,-4,0.11,0.144
+"Arizona Cardinals",4.9,0,-1.6,-5.6,0.002,0.016
